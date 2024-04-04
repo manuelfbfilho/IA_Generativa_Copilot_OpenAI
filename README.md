@@ -50,6 +50,8 @@ Feitas todas as configurações, basta apenas selecionar a guia <b>OPTICAL CHARA
 ## Considerações finais
 
 O recurso de reconhecimento e extração de textos em imagens do Azure possibilita que as empresas o utilizem para reconhecimento e arquivamento de documentos com agilidade e segurança, podendo ser empregado também em notas fiscais, necessitando apenas que a imagem do documento seja inserida na ferramenta e seus dados já serão reconhecidos.
+
+<b>OBS.:</b> <i>Imagens e parte da formatação deste README, utilizando da da mesma estrutura do nosso colega [Alex Lopes (alexklenio)](https://github.com/alexklenio).</i>
 ...
 
 ## Contatos 
